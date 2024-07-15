@@ -1,5 +1,9 @@
 # UCP-with-JBoss
-Integration of UCP with WildFly
+Integration of UCP with WildFly. This Example is to establish PDB connection for specific Teanant 
+
+DB Changes : 
+1. Create one CDB
+2. Create 2 PDB under CDB
 
 Above Example is to Integarte UCP with WildFly server.
 
